@@ -1,0 +1,14 @@
+D:\5to ciclo\proyectoXamarin\XamarinSQLite\XamarinSQLite\XamarinSQLite\bin\Debug\netstandard2.0\XamarinSQLite.deps.json
+D:\5to ciclo\proyectoXamarin\XamarinSQLite\XamarinSQLite\XamarinSQLite\bin\Debug\netstandard2.0\XamarinSQLite.dll
+D:\5to ciclo\proyectoXamarin\XamarinSQLite\XamarinSQLite\XamarinSQLite\obj\Debug\netstandard2.0\XamarinSQLite.csprojAssemblyReference.cache
+D:\5to ciclo\proyectoXamarin\XamarinSQLite\XamarinSQLite\XamarinSQLite\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\5to ciclo\proyectoXamarin\XamarinSQLite\XamarinSQLite\XamarinSQLite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\5to ciclo\proyectoXamarin\XamarinSQLite\XamarinSQLite\XamarinSQLite\obj\Debug\netstandard2.0\XamarinSQLite.csproj.CoreCompileInputs.cache
+D:\5to ciclo\proyectoXamarin\XamarinSQLite\XamarinSQLite\XamarinSQLite\obj\Debug\netstandard2.0\XamarinSQLite.AssemblyInfoInputs.cache
+D:\5to ciclo\proyectoXamarin\XamarinSQLite\XamarinSQLite\XamarinSQLite\obj\Debug\netstandard2.0\XamarinSQLite.AssemblyInfo.cs
+D:\5to ciclo\proyectoXamarin\XamarinSQLite\XamarinSQLite\XamarinSQLite\bin\Debug\netstandard2.0\ref\XamarinSQLite.dll
+D:\5to ciclo\proyectoXamarin\XamarinSQLite\XamarinSQLite\XamarinSQLite\bin\Debug\netstandard2.0\XamarinSQLite.pdb
+D:\5to ciclo\proyectoXamarin\XamarinSQLite\XamarinSQLite\XamarinSQLite\obj\Debug\netstandard2.0\XamlC.stamp
+D:\5to ciclo\proyectoXamarin\XamarinSQLite\XamarinSQLite\XamarinSQLite\obj\Debug\netstandard2.0\XamarinSQLite.dll
+D:\5to ciclo\proyectoXamarin\XamarinSQLite\XamarinSQLite\XamarinSQLite\obj\Debug\netstandard2.0\ref\XamarinSQLite.dll
+D:\5to ciclo\proyectoXamarin\XamarinSQLite\XamarinSQLite\XamarinSQLite\obj\Debug\netstandard2.0\XamarinSQLite.pdb
